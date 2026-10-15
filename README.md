@@ -1,2 +1,2 @@
-# exercse
+# exercise
 小练习
